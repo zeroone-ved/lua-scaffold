@@ -19,6 +19,7 @@ Lua-scaffold 是一篇说明文档，旨在为 lua 提供完善的基础设施�
 - [class.lua](https://github.com/kikito/middleclass/blob/master/middleclass.lua)
 - [cron.lua](https://github.com/kikito/cron.lua/blob/master/cron.lua)
 - reload.lua
+- [debugger.lua](https://github.com/slembcke/debugger.lua/blob/master/debugger.lua)
 - [sandbox.lua](https://github.com/kikito/lua-sandbox/blob/master/sandbox.lua)
 - i18n.lua
 - [json.lua](https://github.com/rxi/json.lua/blob/master/json.lua)
