@@ -28,4 +28,4 @@ lua-scaffold 是一篇说明文档，旨在为 lua 提供完善的基础设施�
 我们期待您的贡献。如果您在使用过程中，发现问题或不足之处，或希望提供宝贵建议，请通过 [issues](https://github.com/zeroone-ved/lua-scaffold/issues) 提交并参与讨论。
 
 ## 致谢
-<https://github.com/jojo59516>
+[jojo59516](https://github.com/jojo59516)
